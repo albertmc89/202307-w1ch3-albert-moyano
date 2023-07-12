@@ -32,6 +32,7 @@ body {
   list-style: none;
   font-size: 2.4rem;
   letter-spacing: 0.05rem;
+  margin: 0;
 }
 
 a {
@@ -66,7 +67,7 @@ a {
   min-height: 100vh;
   display: flex;
   flex-direction: column;
-  padding: 2rem;
+  padding: 1.5rem;
 }
 
 .main-title {
