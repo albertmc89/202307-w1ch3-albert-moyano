@@ -80,3 +80,21 @@ a {
   flex-direction: column;
   gap: 0.5rem;
 }
+fieldset {
+  border-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+legend {
+  padding: 0;
+  margin-bottom: 0.5rem;
+}
+
+.form__name,
+.form__price {
+  width: 50%;
+  padding: 0.5rem;
+  border: none;
+  margin-bottom: 0.5rem;
+}
