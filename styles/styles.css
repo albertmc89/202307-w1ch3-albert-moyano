@@ -9,13 +9,16 @@
 body {
   min-height: 100vh;
   margin: 0;
+  min-width: 100vh;
 }
 
 .header {
   background-color: rgb(80, 151, 137);
   display: flex;
   justify-content: space-between;
+  align-items: center;
   color: rgb(236, 236, 236);
+  padding: 2rem;
 }
 
 .title {
