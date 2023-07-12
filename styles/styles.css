@@ -60,3 +60,14 @@ a {
   border-radius: 50%;
   border: none;
 }
+
+.main {
+  background-color: rgb(245, 201, 94);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.main-title {
+  margin: 0;
+}
