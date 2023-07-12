@@ -80,6 +80,7 @@ a {
   flex-direction: column;
   gap: 0.5rem;
 }
+
 fieldset {
   border-style: none;
   margin: 0;
@@ -97,4 +98,14 @@ legend {
   padding: 0.5rem;
   border: none;
   margin-bottom: 0.5rem;
+}
+
+.form_add-button {
+  padding: 0.8rem;
+  width: 4rem;
+  border: none;
+  background-color: rgb(80, 151, 137);
+  color: rgb(236, 236, 236);
+  font-size: 0.8rem;
+  font-weight: 400;
 }
